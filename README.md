@@ -5,5 +5,5 @@ For ENG EC 565 Electromagnetic Fundamentals
 
 uses code from:
 
-[GeoScience Ionospheric Tool](https://github.com/aldebaran1/gsit)\n
+[GeoScience Ionospheric Tool](https://github.com/aldebaran1/gsit)\\
 [Pymap 3D](https://github.com/scienceopen/pymap3d)
